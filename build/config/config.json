@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x50c7dd655ab2c4f0e1d228b47c89efe48029e58c",
+  "SCAN_LINK": "https://polygonscan.com/token/0x50c7dd655ab2c4f0e1d228b47c89efe48029e58c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Stand With Ukrainian Refugees Medal",
+  "SYMBOL": "SUR",
+  "MAX_SUPPLY": 10000000,
+  "SILVER_WEI_COST": 20000000000000000000,
+  "GOLD_WEI_COST": 40000000000000000000,
+  "SILVER_DISPLAY_COST": 20,
+  "GOLD_DISPLAY_COST": 40,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/stand-with-ukrainian-refugees",
+  "SHOW_BACKGROUND": false
+}
